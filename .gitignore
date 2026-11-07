@@ -38,6 +38,7 @@ wheels/
 .coverage
 htmlcov/
 .eslintcache
+*.tsbuildinfo
 
 # Storage runtime data
 storage_data/
